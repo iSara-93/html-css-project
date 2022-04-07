@@ -1,0 +1,82 @@
+
+  .bg { 
+    /* The image used */
+    background-image: url("background-image.png");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  img {
+      float: left;
+  }
+.content-1 {
+
+    padding-left: 250px;
+    padding-right: 200px;
+}
+
+table, th, td{
+    border: 1px solid lightseagreen;
+
+}
+table {
+    width: 100%;
+}
+
+
+th, td {
+    width: 50%;
+}
+
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+.tableAlignLeft {
+    text-align: left;
+}
+
+button {
+    background-color: red;
+    border: none;
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+
+    
+
+}
+
+a {
+
+    text-decoration: none;
+}
+
+
+.formPosition {
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+
+
+}
+
+
+input {
+    width: 450px;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
